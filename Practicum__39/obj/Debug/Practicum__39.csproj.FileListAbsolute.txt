@@ -1,0 +1,7 @@
+C:\Users\kab-35-17\source\repos\Practicum__39\bin\Debug\Practicum__39.exe.config
+C:\Users\kab-35-17\source\repos\Practicum__39\bin\Debug\Practicum__39.exe
+C:\Users\kab-35-17\source\repos\Practicum__39\bin\Debug\Practicum__39.pdb
+C:\Users\kab-35-17\source\repos\Practicum__39\obj\Debug\Practicum__39.csproj.AssemblyReference.cache
+C:\Users\kab-35-17\source\repos\Practicum__39\obj\Debug\Practicum__39.csproj.CoreCompileInputs.cache
+C:\Users\kab-35-17\source\repos\Practicum__39\obj\Debug\Practicum__39.exe
+C:\Users\kab-35-17\source\repos\Practicum__39\obj\Debug\Practicum__39.pdb
